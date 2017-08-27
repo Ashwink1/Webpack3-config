@@ -1,0 +1,15 @@
+{
+  "name": "webpack3-config",
+  "version": "1.0.0",
+  "description": "webpack3",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^3.0.0-rc.2"
+  }
+}
